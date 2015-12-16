@@ -29,6 +29,10 @@ Here's a walkthrough of implemented user stories:
 
 https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view <br>
 [Video Walkthrough](https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view) <br>
+<br>
+https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QMDZYT0dHUGV3S2c/view <br>
+[Video Walkthrough 2 with updates](https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QMDZYT0dHUGV3S2c/view)<br>
+<br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
