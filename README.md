@@ -27,9 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view </n>
-<img src='https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[Video Walkthrough](https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view)
+https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view <br>
+[Video Walkthrough](https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QNWo3LUtMM3lFbE0/view) <br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
