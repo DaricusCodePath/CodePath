@@ -31,6 +31,16 @@ class ViewController: UIViewController {
     override func viewWillAppear(animated: Bool) {
     super.viewWillAppear(animated)
     tipControl.selectedSegmentIndex = shareDefaults.integerForKey("defaultTipIndex")
+	    
+    var tipP = [0.18,0.20, 0.22]
+    let tipPI = tipP[tipControl.selectedSegmentIndex]
+    var billAmount = NSString(string: bilField.text!).doubleValue
+    var tip = billAmount * tipPI
+    var total = billAmount + tip
+        
+    tipLabel.text = String(format: "$%.2f", tip)
+    totalLabel.text = String(format: "$%.2f", total)
+
     }
 
     override func didReceiveMemoryWarning() {
